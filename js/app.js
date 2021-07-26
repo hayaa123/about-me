@@ -18,7 +18,7 @@ function n_correct (answer){
 }
 
 let greet = prompt ("what is your name?")
-alert ("hello "+ greet +"welcome :D")
+alert ("hello "+ greet +" welcome :D")
 let q1 = prompt('do I have a cat ?')
 // console.log (n_correct(q1))
 alert(n_correct(q1))
